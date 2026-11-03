@@ -1,7 +1,7 @@
 <div align="center">
 
-### Languages
+### Most Used Languages
 
-![Languages](./metrics.languages.svg)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KawaiiAsh&layout=compact&theme=github_dark&hide_border=true&langs_count=10)
 
 </div>
